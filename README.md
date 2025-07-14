@@ -1,2 +1,2 @@
-# one-joker-at-a-time
-Jokers, but one word at a time. Created by Discord users.
+# One Joker At a Time
+A Balatro mod created entirely through people saying things one word at a time.

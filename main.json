@@ -1,0 +1,18 @@
+{
+	"id": "one_joker_at_a_time",
+	"name": "One Joker At A Time",
+	"display_name": "One Joker At A Time",
+	"author": [
+		"Glitchkat10"
+	],
+	"description": "",
+	"prefix": "ojt",
+	"main_file": "main.lua",
+	"priority": 4,
+	"badge_colour": "123456",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.0",
+	"dependencies": [
+		"Steamodded"
+	]
+}

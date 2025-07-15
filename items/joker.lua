@@ -4,8 +4,8 @@ SMODS.Joker {
 	config = { extra = { chips_mod = 20, discards = 7, discards_remaining = 7, chips = 0 } },
 	rarity = 3,
 	atlas = "ojt_tyrone",
-	pos = { x = 9, y = 1 },
-	cost = 0,
+	pos = { x = 0, y = 0 },
+	cost = 9,
 	blueprint_compat = true,
 	demicoloncompat = true,
 	loc_vars = function(self, info_queue, card)
